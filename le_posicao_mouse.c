@@ -1,5 +1,3 @@
-// Stéphani Pinheiro Ferreira - 257274
-
 #include <windows.h>
 #include <winuser.h>
 #include <stdio.h>
